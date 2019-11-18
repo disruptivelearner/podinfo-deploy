@@ -1,0 +1,1 @@
+{"jobID":"027c68c9-8de3-a57d-5283-0dd0fae87269","spec":{"type":"policy","cause":{"Message":"","User":"V. Hem \u003cdjhousefire@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
